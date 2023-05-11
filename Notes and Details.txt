@@ -1,0 +1,36 @@
+URL : https://aispry.com/
+UserName : seemaiyengar162658
+Password : LMS162658
+
+Following are the courses available in your access:
+Tame the Python   - Day 20 Video done - https://www.youtube.com/playlist?list=PLXqcFxzSKEfa9iOWtzVIhb1nKwwHbk0sj
+SQL - https://www.youtube.com/playlist?list=PLNLDEHOJTZSj-6iEWCLXiLfspBIsol2v0 
+CRISP-ML(Q) - https://www.youtube.com/playlist?list=PLXqcFxzSKEfa1r9fAFRkuW0zt8GzPlJD3
+----------------------------------------------------------------------------------------------------------------------
+
+
+Tableau - https://www.youtube.com/playlist?list=PLNLDEHOJTZSiTiYy-WHFNvOhr8gPgBYeh
+
+
+Mind Map - https://360digitmg.com/mindmap
+Digital Book - https://360digitmg.com/blog
+
+https://www.linkedin.com/in/bharanikumardepuru - CEO of 360DigiTMG
+
+
+For LMS related query contact smitha@360digitmg.com
+For assignment related query contact assignments@360digitmg.com
+For Feedback / Suggestions and complaints contact manish.v@360digitmg.com
+
+
+360digitmg certifications ->
+Python - done
+SQL - done
+
+
+NASSCOM Certifications ->
+Enrolled for Data Science with Python Certification -> due date july 7 2023 
+Enrolled for Python Fundamentals Course with certification - > due date july 15 2023 
+
+
+Anaconda installation -> C:\Users\seema\anaconda3 -> path 
